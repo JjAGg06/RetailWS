@@ -1,0 +1,7 @@
+[
+  ["2025-11-01 09:15","DIM_PRODUCTO","OK","Insertadas 1,234 filas (merge)."],
+  ["2025-11-01 09:16","DIM_CLIENTE","OK","Actualizadas 543; nuevas 87."],
+  ["2025-11-01 09:18","FACT_VENTAS","OK","Creadas 12,345 filas; duplicados evitados."],
+  ["2025-11-02 08:03","REPROCESO_HECHOS","ERROR","ORA-00001: restricción única violada."],
+  ["2025-11-03 10:44","DIM_SUCURSAL","OK","Sin cambios."]
+]
